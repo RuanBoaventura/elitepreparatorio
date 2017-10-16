@@ -47,7 +47,7 @@
 		
 		.index {
 			width: 100%;
-			height: 4570px;
+			height: 4402px;
 			background: url('../imgs/index.png') no-repeat 50% 0%;
 		}
 		
@@ -57,4 +57,14 @@
 	
 	/* ===== pages ===== */
 		
+		.index-hover {
+			width: 100%;
+			height: 4402px;
+			background: url('../imgs/index-hover.png') no-repeat 50% 0%;
+		}
 		
+		.index-active {
+			width: 100%;
+			height: 4402px;
+			background: url('../imgs/index-active.png') no-repeat 50% 0%;
+		}
